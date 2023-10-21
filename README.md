@@ -6,19 +6,18 @@
 
 <h3>Implementação de um CRUD simples para consolidar conhecimentos iniciais adquiridos da paltaforma DotNet Core WebApi.</h3>
 
-<h4>Tecnologias</h4>
-<ul>
- <li>DotNet 7.0</li>
- <li>Entityframework</li>
- <li>Entityframework Migrations</li>
- <li>Swagger</li>
- <li>Docker</li>
- <li>Docker-compose</li>
- <li>Postgres</li>
-</ul>
+## ✔️ Técnicas e tecnologias utilizadas
+- ``DotNet 7.0``
+- ``Entityframework``
+- ``Entityframework Migrations``
+- ``Swagger``
+- ``Docker``
+- ``Docker-compose``
+- ``Postgres``
 
 
-
+## 📁 Acesso ao projeto
+Você pode acessar os arquivos do projeto clicando [aqui](https://github.com/osvaldsoza/ApiFuncional).
 <a href="https://github.com/osvaldsoza/ApiFuncional">Acessar</a>
 <a href="https://github.com/osvaldsoza/ApiFuncional.git">Clonar</a>
 
