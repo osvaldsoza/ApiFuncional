@@ -1,6 +1,8 @@
-<img src="https://github.com/osvaldsoza/ApiFuncional/assets/9426175/d37ca7ac-d286-4008-8b34-1ae05886d42f"/>
+<p align="center">
+ <img src="https://github.com/osvaldsoza/ApiFuncional/assets/9426175/d37ca7ac-d286-4008-8b34-1ae05886d42f"/>
+</p>
 
-<h1 align="center"> CRUD Rest API</h1>
+<h1> CRUD Rest API</h1>
 
 
 
