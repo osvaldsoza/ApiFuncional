@@ -19,8 +19,8 @@
 
 # 📁 Acesso ao projeto
  
-## Acessar: <a href="https://github.com/osvaldsoza/ApiFuncional"/> 
-## Clonar: <a href="https://github.com/osvaldsoza/ApiFuncional.git"/>
+<p> Acessar: <a href="https://github.com/osvaldsoza/ApiFuncional"/> </p>
+<p> Clonar: <a href="https://github.com/osvaldsoza/ApiFuncional.git"/></p>
 
 # 🛠️ Executar o comando: docker compose up -d
 
