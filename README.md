@@ -13,10 +13,8 @@ Implementação de um CRUD simples para consolidar conhecimentos iniciais adquir
 - ``Docker-compose``
 - ``Postgres``
 
-
 ## 📁 Acesso ao projeto
 Você pode acessar os arquivos do projeto clicando [aqui](https://github.com/osvaldsoza/ApiFuncional)!
-Para clonar, você pode cliacar [aqui](https://github.com/osvaldsoza/ApiFuncional.git)!
 
 
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
