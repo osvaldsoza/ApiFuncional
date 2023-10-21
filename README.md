@@ -1,10 +1,7 @@
-<p align="center">
- <img src="https://github.com/osvaldsoza/ApiFuncional/assets/9426175/d37ca7ac-d286-4008-8b34-1ae05886d42f"/>
-</p>
 
-<h1>API Funcional</h1>
+![dotnet core](https://github.com/osvaldsoza/ApiFuncional/assets/9426175/d37ca7ac-d286-4008-8b34-1ae05886d42f)
 
-<h3>Implementação de um CRUD simples para consolidar conhecimentos iniciais adquiridos da paltaforma DotNet Core WebApi.</h3>
+# Implementação de um CRUD simples para consolidar conhecimentos iniciais adquiridos da paltaforma DotNet Core WebApi.
 
 ## ✔️ Técnicas e tecnologias utilizadas
 - ``DotNet 7.0``
