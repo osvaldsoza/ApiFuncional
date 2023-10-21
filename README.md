@@ -1,5 +1,6 @@
 <h1 align="center"> API Funcional com DotNet Core 7.0 </h1>
-# ApiFuncional
+
+Implementação de CRUD utilizando Rest API, para consilidar conhecimentos iniciais da paltaforma DotNet Core WebApi
 
 ## Stacks
 #### DotNet 7.0
