@@ -17,12 +17,12 @@
  <li>Postgres</li>
 </ul>
 
-# 📁 Acesso ao projeto
+
 
 <a href="https://github.com/osvaldsoza/ApiFuncional">Acessar</a>
 <a href="https://github.com/osvaldsoza/ApiFuncional.git">Clonar</a>
 
-# 🛠️ Executar o comando: docker compose up -d
+
 
 <p align="center">
  <img loading="lazy" src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
