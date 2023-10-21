@@ -1,5 +1,7 @@
-<h1 align="center"> API Funcional com DotNet Core 7.0 </h1>
 <img src="https://github.com/osvaldsoza/ApiFuncional/assets/9426175/d37ca7ac-d286-4008-8b34-1ae05886d42f"/>
+
+<h1 align="center"> CRUD Rest API</h1>
+
 
 
 <p>Implementação de CRUD utilizando Rest API, para consolidar conhecimentos iniciais adquiridos da paltaforma DotNet Core WebApi</p>
