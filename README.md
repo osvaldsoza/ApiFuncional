@@ -1,6 +1,6 @@
 <h1 align="center"> API Funcional com DotNet Core 7.0 </h1>
 
-<p>Implementação de CRUD utilizando Rest API, para consilidar conhecimentos iniciais da paltaforma DotNet Core WebApi</p>
+<p>Implementação de CRUD utilizando Rest API, para consolidar conhecimentos iniciais adquiridos da paltaforma DotNet Core WebApi</p>
 
 ## Stacks
 #### DotNet 7.0
