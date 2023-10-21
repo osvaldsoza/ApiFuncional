@@ -7,12 +7,12 @@
 <h3>Implementação de um CRUD simples para consolidar conhecimentos iniciais adquiridos da paltaforma DotNet Core WebApi.</h3>
 
 <h4>Tecnologias</h4>
-<li>
- <ul>Entityframework</ul>
- <ul>Docker</ul>
- <ul>Docker-compose</ul>
- <ul>Postgres</ul>
-</li>
+<ul>
+ <li>Entityframework</li>
+ <li>Docker</li>
+ <li>Docker-compose</li>
+ <li>Postgres</li>
+</ul>
 ## Stacks
 #### DotNet 7.0
 ### Swagger
