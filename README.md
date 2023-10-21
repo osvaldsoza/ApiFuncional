@@ -18,7 +18,9 @@
 </ul>
 
 # 📁 Acesso ao projeto
-<p>Acessar : <a href="https://github.com/osvaldsoza/ApiFuncional"/> o baixar: <a href="https://github.com/osvaldsoza/ApiFuncional"/>
+<p> 
+ Acessar: <a href="https://github.com/osvaldsoza/ApiFuncional"/> o baixar: <a href="https://github.com/osvaldsoza/ApiFuncional"/>
+</p>
 # 🛠️ Executar o comando: docker compose up -d
 
 <p align="center">
