@@ -17,7 +17,8 @@ Implementação de um CRUD simples para consolidar conhecimentos iniciais adquir
 Você pode acessar os arquivos do projeto clicando [aqui](https://github.com/osvaldsoza/ApiFuncional)!
 
 # 🛠️ Abrir e rodar o projeto
-- Primeiro execute o comnado: ``docker compose up -d``para levantar o banco de dados.
+- Execute o comnado: ``docker compose up -d`` para levantar o banco de dados.
+- Execute o comnado: ``dotket clean`` e ``dotnet build`` para buildar o projeto.
 
 
 
