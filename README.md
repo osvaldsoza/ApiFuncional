@@ -9,7 +9,6 @@ Implementação de um CRUD simples para consolidar conhecimentos iniciais adquir
 - ``Entityframework``
 - ``Entityframework Migrations``
 - ``Swagger``
-- ``Docker``
 - ``Docker-compose``
 - ``Postgres``
 
@@ -17,8 +16,8 @@ Implementação de um CRUD simples para consolidar conhecimentos iniciais adquir
 Você pode acessar os arquivos do projeto clicando [aqui](https://github.com/osvaldsoza/ApiFuncional)!
 
 # 🛠️ Abrir e rodar o projeto
-- Execute o comnado: ``docker compose up -d`` para levantar o banco de dados.
-- Execute o comnado: ``dotket clean`` e ``dotnet build`` para buildar o projeto.
+1. Execute o comnado: ``docker compose up -d`` para levantar o banco de dados.
+1. Execute o comnado: ``dotket clean`` e ``dotnet build`` para buildar o projeto.
 
 
 
