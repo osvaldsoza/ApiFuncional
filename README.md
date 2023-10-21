@@ -16,6 +16,10 @@ Implementação de um CRUD simples para consolidar conhecimentos iniciais adquir
 ## 📁 Acesso ao projeto
 Você pode acessar os arquivos do projeto clicando [aqui](https://github.com/osvaldsoza/ApiFuncional)!
 
+# 🛠️ Abrir e rodar o projeto
+- Primeiro execute o comnado: ``docker compose up -d``para levantar o banco de dados.
+
+
 
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
 
