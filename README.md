@@ -2,11 +2,9 @@
  <img src="https://github.com/osvaldsoza/ApiFuncional/assets/9426175/d37ca7ac-d286-4008-8b34-1ae05886d42f"/>
 </p>
 
-<h1> CRUD Rest API</h1>
+<h1> CRUD</h1>
 
-
-
-<p>Implementação de CRUD utilizando Rest API, para consolidar conhecimentos iniciais adquiridos da paltaforma DotNet Core WebApi</p>
+<h3>Implementação de um CRUD simples para consolidar conhecimentos iniciais adquiridos da paltaforma DotNet Core WebApi.</h3>
 
 ## Stacks
 #### DotNet 7.0
