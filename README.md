@@ -6,6 +6,7 @@ Implementação de um CRUD simples para consolidar conhecimentos iniciais adquir
 
 ## ✔️ Tecnologias utilizadas
 - ``DotNet 7.0``
+- ``ASP.NET Identity``
 - ``Entityframework``
 - ``Entityframework Migrations``
 - ``Swagger``
