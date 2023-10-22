@@ -6,6 +6,7 @@
 /Users/osf/Development/dotnet/ApiFuncional/bin/Debug/net7.0/ApiFuncional.dll
 /Users/osf/Development/dotnet/ApiFuncional/bin/Debug/net7.0/ApiFuncional.pdb
 /Users/osf/Development/dotnet/ApiFuncional/bin/Debug/net7.0/Humanizer.dll
+/Users/osf/Development/dotnet/ApiFuncional/bin/Debug/net7.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
 /Users/osf/Development/dotnet/ApiFuncional/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
 /Users/osf/Development/dotnet/ApiFuncional/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
 /Users/osf/Development/dotnet/ApiFuncional/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
