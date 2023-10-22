@@ -18,8 +18,9 @@ Clique [aqui](https://github.com/osvaldsoza/ApiFuncional)!
 # 🛠️ Rodar o projeto
 1. Execute o comnado: ``docker compose up -d`` para levantar o banco de dados.
 1. Execute o comnado: ``dotket clean`` e ``dotnet build`` para buildar o projeto.
+1. Execute o comnado: ``dotnet run``.
 
-# Autores
+# Autor
 
 | [<img loading="lazy" src="https://github.com/osvaldsoza/ApiFuncional/assets/9426175/cba31f2b-3b5d-4a6d-ab6d-39583efe752b" width=115><br><sub>Osvaldo de Souza Ferreira</sub>](https://github.com/camilafernanda) 
 | :---:
