@@ -19,7 +19,10 @@ Clique [aqui](https://github.com/osvaldsoza/ApiFuncional)!
 1. Execute o comnado: ``docker compose up -d`` para levantar o banco de dados.
 1. Execute o comnado: ``dotket clean`` e ``dotnet build`` para buildar o projeto.
 1. Execute o comnado: ``dotnet run``.
-1. Se estiver usando o ``Visual Studio``, os passos 2 e 3, nào serão necessários.
+1. Se estiver usando o ``Visual Studio``, os passos 2 e 3, não serão necessários.
+
+## 📁 Documentação
+http://localhost:5019/swagger/index.html
 
 # Autor
 
