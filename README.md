@@ -18,9 +18,9 @@ Implementation of the simple CRUD to consolidate initial knowledge acquired from
 
 # 🛠️ Execute project
 1. Run the command: ``docker compose up -d``.
-1. Run the command: ``dotet clean`` e ``dotnet build``.
+1. Run the command: ``dotet clean`` and ``dotnet build``.
 1. Run the command: ``dotnet run``.
-1. Se estiver usando o ``Visual Studio``, os passos 2 e 3, não serão necessários.
+1. If you are using the ``Visual Studio``, the steps 2 and 3, it will not be necessary.
 
 ## 📁 Documentation
 http://localhost:5019/swagger/index.html
