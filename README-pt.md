@@ -16,7 +16,7 @@ Implementação de um CRUD simples para consolidar conhecimentos iniciais adquir
 - ``Docker-compose``
 - ``Postgres``
 
-# 🛠️ Rodar o projeto
+## 🛠️ Rodar o projeto
 1. Execute o comnado: ``docker compose up -d``.
 1. Execute o comnado: ``dotet clean`` e ``dotnet build``.
 1. Execute o comnado: ``dotnet run``.
@@ -25,7 +25,7 @@ Implementação de um CRUD simples para consolidar conhecimentos iniciais adquir
 ## 📁 Documentação
 http://localhost:5019/swagger/index.html
 
-# Autor
+## Autor
 
 | [<img loading="lazy" src="https://github.com/osvaldsoza/ApiFuncional/assets/9426175/cba31f2b-3b5d-4a6d-ab6d-39583efe752b" width=100><br><sub>Osvaldo de Souza Ferreira</sub>](https://github.com/camilafernanda) 
 | :---:

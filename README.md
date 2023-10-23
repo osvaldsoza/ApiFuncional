@@ -16,7 +16,7 @@ Implementation of the simple CRUD to consolidate initial knowledge acquired from
 - ``Docker-compose``
 - ``Postgres``
 
-# 🛠️ Execute project
+## 🛠️ Execute project
 1. Run the command: ``docker compose up -d``.
 1. Run the command: ``dotet clean`` and ``dotnet build``.
 1. Run the command: ``dotnet run``.
@@ -25,7 +25,7 @@ Implementation of the simple CRUD to consolidate initial knowledge acquired from
 ## 📁 Documentation
 http://localhost:5019/swagger/index.html
 
-# Author
+## Author
 
 | [<img loading="lazy" src="https://github.com/osvaldsoza/ApiFuncional/assets/9426175/cba31f2b-3b5d-4a6d-ab6d-39583efe752b" width=100><br><sub>Osvaldo de Souza Ferreira</sub>](https://github.com/camilafernanda) 
 | :---:
