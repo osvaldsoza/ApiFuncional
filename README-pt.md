@@ -16,9 +16,6 @@ Implementação de um CRUD simples para consolidar conhecimentos iniciais adquir
 - ``Docker-compose``
 - ``Postgres``
 
-## 📁 Acesso ao projeto
-Clique [aqui](https://github.com/osvaldsoza/ApiFuncional)!
-
 # 🛠️ Rodar o projeto
 1. Execute o comnado: ``docker compose up -d``.
 1. Execute o comnado: ``dotet clean`` e ``dotnet build``.
