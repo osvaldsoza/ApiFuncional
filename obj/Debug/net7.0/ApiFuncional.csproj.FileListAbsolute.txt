@@ -42,3 +42,10 @@
 /Users/osf/Development/dotnet/ApiFuncional/obj/Debug/net7.0/ApiFuncional.pdb
 /Users/osf/Development/dotnet/ApiFuncional/obj/Debug/net7.0/ApiFuncional.genruntimeconfig.cache
 /Users/osf/Development/dotnet/ApiFuncional/obj/Debug/net7.0/ref/ApiFuncional.dll
+/Users/osf/Development/dotnet/ApiFuncional/bin/Debug/net7.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/osf/Development/dotnet/ApiFuncional/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/osf/Development/dotnet/ApiFuncional/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+/Users/osf/Development/dotnet/ApiFuncional/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+/Users/osf/Development/dotnet/ApiFuncional/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/osf/Development/dotnet/ApiFuncional/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+/Users/osf/Development/dotnet/ApiFuncional/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll

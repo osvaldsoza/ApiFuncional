@@ -1,10 +1,12 @@
 using ApiFuncional.Data;
 using ApiFuncional.Models;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 
 namespace ApiFuncional.Controllers;
 
+[Authorize]
 [ApiController]
 [Route("api/produtos")]
 public class ProdutoController : ControllerBase
